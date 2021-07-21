@@ -16,8 +16,8 @@ duckWalkingIMG=loadAnimation("pictures/walkingframe1.png", "pictures/walkingfram
 duckFlyingIMG=loadAnimation("pictures/flyingframe1.png", "pictures/flyingframe2.png")
 cowIMG=loadImage("pictures/cow.png")
 bearIMG=loadImage("pictures/BadBear.png")
-backgroundIMG=loadImage("pictures/Backdrop2.png")
-backdrop1=loadImage("pictures/Backdrop1.png")
+backgroundIMG=loadImage("pictures/Backdrop2.PNG")
+backdrop1=loadImage("pictures/Backdrop1.PNG")
 }
 
 function setup() {
